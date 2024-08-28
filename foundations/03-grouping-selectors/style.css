@@ -1,0 +1,16 @@
+.Pickme,
+.Nopickme{
+    font-size: 28px;
+    font-family: "Helvetica" "Times New Roman" sans-serif;
+}
+
+.Pickme
+{
+    background-color: black;
+    color:white;
+}
+
+.Nopickme{
+    background-color: yellow;
+    color: black;
+}
